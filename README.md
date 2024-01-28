@@ -6,6 +6,8 @@
 - 😄 Pronouns: Pro/Grammer
 - ⚡ Fun fact: im still Alive
 
+- 2023   August  23   , Wednesday ( the day i started to learn HOW TO CODE )
+
 <!---
 TheSadge/Sajjad-Hakemzade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
