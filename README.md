@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Jquery**
 
-- 👨‍💻 All of my projects are available at [Just Open my profile]
+- 👨‍💻 All of my projects are available at [Just Scroll Down]
 
 - 💬 Ask me about **Vanilla JavaScript - FlexBox - Html 5 - Css3**
 
