@@ -1,32 +1,31 @@
 <span> [![MasterHead](https://idejupr.lt/img/aa419de90fb34242b5e3c8129146f515.gif) </span><br> <br>
-<h1 align="center">Hi 👋, I'm TheSadge | Sajjad Hakemzade</h1>
-<h3 align="center">A Semi-Happy Front End Developer</h3>
 
 <img align="right" alt="coding" width="400px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">
 
-- 🌱 I’m currently learning **Jquery**
+-# 💫 About Me:
+🌱 I’m currently learning Jquery<br><br>👨‍💻 All of my projects are available at [Just Scroll Down]<br><br>💬 Ask me about " Nothing , I am the one who must ASK at the moment "<br><br>📫 How to reach me thesadgee.ir@outlook.com<br><br>⚡ Fun fact  : I am Still Alive <br>
 
-- 👨‍💻 All of my projects are available at [Just Scroll Down]
 
-- 💬 Ask me about **Vanilla JavaScript - FlexBox - Html 5 - Css3**
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/7GbsTwNwee) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thesadgee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sajjad-hakemzadeh-55450b294/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/TheSadge) 
 
-- 📫 How to reach me **thesadgee.ir@outlook.com**
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TheSadge&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TheSadge&theme=great-gatsby&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSadge&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- ⚡ Fun fact **Im Still Alive**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TheSadge&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sajjad hakemzade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajjad hakemzade" height="30" width="40" /></a>
-<a href="https://fb.com/sajjad hakemzadeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajjad hakemzadeh" height="30" width="40" /></a>
-<a href="https://instagram.com/thesadgee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thesadgee" height="30" width="40" /></a>
-<a href="https://discord.gg/jkgBR7hjFd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jkgBR7hjFd" height="30" width="40" /></a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesadge&show_icons=true&locale=en&layout=compact" alt="thesadge" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=TheSadge&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesadge&show_icons=true&locale=en" alt="thesadge" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesadge&" alt="thesadge" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
